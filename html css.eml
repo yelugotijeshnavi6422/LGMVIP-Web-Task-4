@@ -1,0 +1,56 @@
+MIME-Version: 1.0
+Date: Sun, 5 Nov 2023 17:48:20 +0530
+Message-ID: <CACJEbqZqsAFBrUpL91i7QWCU9giC8aNKFMaJmCKVfv4eaZZRHQ@mail.gmail.com>
+Subject: html css
+From: C-65-5I9- YELUGOTI JESHNAVI <209y1a05i9@ksrmce.ac.in>
+To: C-65-5I9- YELUGOTI JESHNAVI <209y1a05i9@ksrmce.ac.in>
+Content-Type: multipart/alternative; boundary="000000000000ca22ba060966bb88"
+
+--000000000000ca22ba060966bb88
+Content-Type: text/plain; charset="UTF-8"
+
+.calculator {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f4f4f4;
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+button {
+    padding: 10px;
+    margin: 5px;
+    font-size: 18px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+
+button:hover {
+    background-color: #555;
+}
+
+--000000000000ca22ba060966bb88
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">.calculator {<br>=C2=A0 =C2=A0 width: 300px;<br>=C2=A0 =C2=
+=A0 margin: 0 auto;<br>=C2=A0 =C2=A0 text-align: center;<br>=C2=A0 =C2=A0 p=
+adding: 20px;<br>=C2=A0 =C2=A0 border: 1px solid #ccc;<br>=C2=A0 =C2=A0 bac=
+kground-color: #f4f4f4;<br>}<br><br>.buttons {<br>=C2=A0 =C2=A0 display: gr=
+id;<br>=C2=A0 =C2=A0 grid-template-columns: repeat(4, 1fr);<br>}<br><br>but=
+ton {<br>=C2=A0 =C2=A0 padding: 10px;<br>=C2=A0 =C2=A0 margin: 5px;<br>=C2=
+=A0 =C2=A0 font-size: 18px;<br>=C2=A0 =C2=A0 background-color: #333;<br>=C2=
+=A0 =C2=A0 color: #fff;<br>=C2=A0 =C2=A0 border: none;<br>=C2=A0 =C2=A0 cur=
+sor: pointer;<br>}<br><br><br>button:hover {<br>=C2=A0 =C2=A0 background-co=
+lor: #555;<br>}<br></div>
+
+--000000000000ca22ba060966bb88--
